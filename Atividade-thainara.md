@@ -1,4 +1,1 @@
-GAMES
-COFFEE
-COSPLAY
-DOGS
+Simulação
